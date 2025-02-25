@@ -64,6 +64,6 @@ class Car extends Vehicle {
 
     @Override
     public void drive() {
-        System.out.println("The car is driving. Speed: " + speed + " Fuel: " + fuel);
+        System.out.println("The " + brand + " is driving. Speed: " + speed + " Fuel: " + fuel);
     }
 }

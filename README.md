@@ -15,6 +15,10 @@ Each day focuses on specific concepts, with practical coding exercises and proje
 - **Iterating Collections:** `forEach`, `Iterator`, Streams API
 - **Exception Handling:** `try-catch-finally`, `throws`, custom exceptions
 
+### ✅ Day 3 - Concurrency & Multithreading
+- **Multithreading Basics:** `Thread`, `Runnable`, `.start()`
+- **Synchronization & Thread Safety:** `synchronized`, `join()`
+- **Executors & Thread Pools:** `ExecutorService`, `FixedThreadPool()`
+
 ## Upcoming Topics
-- **Concurrency:** Multithreading (`Thread`, `Runnable`), Synchronization, Executors
 - **Functional Programming:** Lambdas, Stream API (`map()`, `filter()`), method references

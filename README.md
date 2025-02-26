@@ -10,9 +10,11 @@ Each day focuses on specific concepts, with practical coding exercises and proje
 - Control Flow: if-else, loops (for, while)
 - Object-Oriented Programming (Encapsulation, Inheritance, Polymorphism)
 
-### Upcoming Topics
+### ✅ Day 2 - Collections & Exception Handling
 - **Collections:** Lists (`ArrayList`), Sets (`HashSet`), Maps (`HashMap`)
 - **Iterating Collections:** `forEach`, `Iterator`, Streams API
 - **Exception Handling:** `try-catch-finally`, `throws`, custom exceptions
+
+## Upcoming Topics
 - **Concurrency:** Multithreading (`Thread`, `Runnable`), Synchronization, Executors
 - **Functional Programming:** Lambdas, Stream API (`map()`, `filter()`), method references

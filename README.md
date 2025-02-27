@@ -20,5 +20,9 @@ Each day focuses on specific concepts, with practical coding exercises and proje
 - **Synchronization & Thread Safety:** `synchronized`, `join()`
 - **Executors & Thread Pools:** `ExecutorService`, `FixedThreadPool()`
 
-## Upcoming Topics
-- **Functional Programming:** Lambdas, Stream API (`map()`, `filter()`), method references
+### ✅ Day 4 - Functional Programming
+- **Functional Interfaces & Lambdas:** `@FunctionalInterface`, `->`
+- **Streams API:** `filter()`, `map()`, `forEach()`
+- **Method References:** `ClassName::method`
+
+## Java Fundamentals & Core Concepts: ✅ Completed

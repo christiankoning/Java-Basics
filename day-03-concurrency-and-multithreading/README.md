@@ -1,4 +1,4 @@
-# Day 2 - Concurrency & Multithreading
+# Day 3 - Concurrency & Multithreading
 
 ## Overview
 This folder contains my Java learning progress from Day 3, covering:
